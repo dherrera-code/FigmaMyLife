@@ -1,7 +1,9 @@
 .highlight{
-    background-color: #00E5FF !important;
-    border: none !important;
-    border-width:0!important;
+    background-color: #00E5FF;
+
+}
+.colorBottomNav{
+    background-color: gold;
 }
 body{
     background-color: #FFAA49;
@@ -9,10 +11,6 @@ body{
 h1{
     text-align: center;
 }
-.navbar-custom-color{
-    background-color: #00E5FF;
-}
-
 .centerItems
 {
     display: flex;
@@ -25,4 +23,7 @@ h1{
     height: 200px;
     background-color: gold;
     padding: 10px;
+}
+img{
+    height: 18rem;
 }
