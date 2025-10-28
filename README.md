@@ -9,4 +9,4 @@
  // You can add multiple dates with description.
 
 // Person who Peer Reviewed your assignment
-Peer Review (name): 
+Peer Review (Isaias Gonzalez): I like the layout you made. Everything looks good.
