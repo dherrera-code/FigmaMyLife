@@ -11,6 +11,11 @@ body{
 h1{
     text-align: center;
 }
+.text{
+    text-align:left;
+    padding: 15px;
+    font-size: 18px;
+}
 .centerItems
 {
     display: flex;
