@@ -29,6 +29,18 @@ h1{
     background-color: gold;
     padding: 10px;
 }
+.contactsBox{
+    width: 800px;
+    height: 300px;
+    background-color: #00D4FF;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+p{
+    font-size: 27px;
+    align-items: left;
+}
 img{
     height: 18rem;
 }
