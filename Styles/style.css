@@ -1,12 +1,14 @@
 .highlight{
     background-color: #00E5FF;
+    padding: 10px;
 
 }
-.colorBottomNav{
-    background-color: gold;
+.bgGold{
+    background-color:#FEFFC4;
 }
+/* #FFAA49 */
 body{
-    background-color: #FFAA49;
+    background-color: #799EFF;
 }
 h1{
     text-align: center;
@@ -23,10 +25,11 @@ h1{
     justify-content: space-evenly;
     align-items: center;
 }
+/* this class creates a color panel to hold info for my about me. */
 .box{
     width: 600px;
     height: 200px;
-    background-color: gold;
+    background-color: #FEFFC4;
     padding: 10px;
 }
 .contactsBox{
@@ -43,4 +46,7 @@ p{
 }
 img{
     height: 18rem;
+}
+.custom-card-color {
+  background-color: #FEFFC4;
 }
