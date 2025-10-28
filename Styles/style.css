@@ -12,3 +12,17 @@ h1{
 .navbar-custom-color{
     background-color: #00E5FF;
 }
+
+.centerItems
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    width: 600px;
+    height: 200px;
+    background-color: gold;
+    padding: 10px;
+}
